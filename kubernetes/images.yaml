@@ -5,6 +5,9 @@ k8s.gcr.io/descheduler/descheduler: docker.io/k8simage/descheduler
 k8s.gcr.io/metrics-server/metrics-server: docker.io/k8simage/metrics-server
 k8s.gcr.io/kube-state-metrics/kube-state-metrics: docker.io/k8simage/kube-state-metrics
 
+# DNS
+k8s.gcr.io/dns/k8s-dns-node-cache: docker.io/k8simage/k8s-dns-node-cache
+
 # kubernetes
 k8s.gcr.io/kube-apiserver: docker.io/k8simage/kube-apiserver
 k8s.gcr.io/kube-controller-manager: docker.io/k8simage/kube-controller-manager
